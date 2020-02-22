@@ -32,13 +32,11 @@ section {
 a {
 	background-color: transparent;
 	color: #2387dd;
-	text-decoration: none;
 }
 
 a:hover,
 a:focus {
 	color: blue;
-	text-decoration: underline;
 }
 
 b,
