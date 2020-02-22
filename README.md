@@ -1,6 +1,8 @@
 # marco.css
 Personal minimal CSS reboot
 
+## Best features
+- 632 bytes minified/gzipped
 - normalize box model
 - normalize most used text elements
 - enhance overall typography
@@ -10,7 +12,6 @@ Personal minimal CSS reboot
 ---
 
 ## Supported browsers
-
 - Chrome >= 45
 - Firefox >= 38
 - Edge >= 12
