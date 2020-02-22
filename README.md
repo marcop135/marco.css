@@ -7,4 +7,18 @@ Personal minimal CSS reboot
 - use responsive images by default
 - normalize most used form elements
 
+---
+
+## Supported browsers
+
+- Chrome >= 45
+- Firefox >= 38
+- Edge >= 12
+- Explorer 11
+- iOS >= 9
+- Safari >= 9
+- Android >= 4.4
+
+---
+
 Inspired from [monica.css](https://meowni.ca/posts/monica-dot-css/) 
