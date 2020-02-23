@@ -123,3 +123,7 @@ fieldset {
 	outline-offset: -2px;
 	-webkit-appearance: none;
 }
+
+[hidden] {
+  display: none !important;
+}
