@@ -26,6 +26,12 @@ a:focus {
 	color: blue;
 }
 
+hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
 b,
 strong {
 	font-weight: bolder;
