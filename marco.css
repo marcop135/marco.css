@@ -124,6 +124,11 @@ fieldset {
 	-webkit-appearance: none;
 }
 
+::-webkit-file-upload-button {
+  font: inherit;
+  -webkit-appearance: button;
+}
+
 [hidden] {
   display: none !important;
 }
