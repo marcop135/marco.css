@@ -83,6 +83,15 @@ input {
 }
 
 button,
+select {
+  text-transform: none;
+}
+
+select {
+  word-wrap: normal;
+}
+
+button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
