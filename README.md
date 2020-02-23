@@ -2,7 +2,7 @@
 Personal minimal CSS reboot
 
 ## Best features
-- 632 bytes minified/gzipped
+- 1370 bytes minified/gzipped
 - normalize box model
 - normalize most used text elements
 - enhance overall typography
