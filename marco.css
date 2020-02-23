@@ -16,19 +16,6 @@ body {
 	color: #222;
 }
 
-article,
-aside,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-nav,
-section {
-	display: block;
-}
-
 a {
 	background-color: transparent;
 	color: #2387dd;
